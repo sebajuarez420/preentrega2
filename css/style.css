@@ -1,0 +1,10 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-color: beige;
+}
+
+.nav-link:hover {
+    color: rgb(174, 179, 21);
+  }
+
